@@ -3,4 +3,4 @@ This is an alpine based build environment image with libraries and tools install
 
 ## Installed tools
  - node:10.16.0
- - yarn:1.5.1
+ - yarn:1.16.0
